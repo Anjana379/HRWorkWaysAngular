@@ -1,0 +1,37 @@
+body#img{ background-image:url("http://www.jordontechllc.com/wp-content/uploads/2017/06/cropped-iStock-612396272.jpg"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:150px;}
+
+.buttons {
+  line-height: 12px;
+  width: 18px;
+  font-size: 8pt;
+  font-family: tahoma;
+  margin-top: -70px;
+  margin-right: 4px;
+  position:absolute;
+ padding:31.5px;
+  top:2;
+  left:85%;
+ background-color: blue none repeat scroll 0 0;
+border-color: blue;
+}
+.one {
+ line-height: 12px;
+  width: 18px;
+  font-size: 8pt;
+  font-family: tahoma;
+  margin-top: -38px;
+  margin-right: 4px;
+  position:absolute;
+ padding:0px;
+  top:1;
+  left:92%;
+ background-color: #ff9900 none repeat scroll 0 0;
+border-color: #f0ad4e;
+}
+
+.navbar {
+  margin: 0;
+  min-height: 50px;
+  font-size: 1.3em;
+  
+}
