@@ -76,7 +76,7 @@ export class DataServiceService {
       { field: 'outtime', header: 'Out Time' },
       { field: 'personalitemout', header: 'Personal Items Out' },
       { field: 'remarks', header: 'Remarks' },
-      { header: 'Edit' },
+      // { header: 'Edit' },
       { header: 'Delete' }
 
 
